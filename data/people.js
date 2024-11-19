@@ -34,3 +34,26 @@ const people = [
 ];
 
 module.exports = people;
+
+/*
+
+    sample data for post:
+    {
+        "name": "Bruce Wayne",
+        "age": 35,
+        "gender": "Male",
+        "city": "Gotham",
+        "isActive": true
+    }
+    sample data for put:
+    Change Bruce Wayne to:
+    {
+        "id": 5,
+        "name": "Penny Robinson",
+        "age": 15,
+        "gender": "Female",
+        "city": "New London",
+        "isActive": true
+    }
+
+*/
